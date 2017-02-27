@@ -1,28 +1,13 @@
-# seke2015-panel-presentation
+# fs102Spring2017-presentation1-myersj451
 
-This repository contains the HTML source code and additional resources for a presentation that I, [Gregory M.
-Kapfhammer](http://www.cs.allegheny.edu/sites/gkapfham), gave during a panel at the 27th International Conference on
-Software Engineering and Knowledge Engineering (SEKE 2015). The presentation's source code uses the
-[reveal.js](https://github.com/hakimel/reveal.js/) framework to control the display of each slide.  I have developed a
-custom theme for the slides that manages the formatting, color scheme, and the use of full-screen photographs on the
-backgrounds.
-
-You are welcome to use these slides as inspiration for your own presentation. If you find this example useful, could I
-trouble you to star this repository and then acknowledge it in your own presentation slides? If you would like to learn
-more about my research publications, then you can check out my GitHub repository called
-[gkapfham/research-bibliography](https://github.com/gkapfham/research-bibliography).
+This repository contains the HTML source code and additional resources for a presentation on false news found on Google's interface. The presentation's source code uses the
+[reveal.js](https://github.com/hakimel/reveal.js/) framework to control the display of each slide. The presentation uses gkapfham/seke2015-panel-presentation as a starting template, but each slide is customized to pertain to issued topic. 
 
 Are you interested in previewing the presentation without having to download the code and resources from the GitHub
 site? Well, you can! Please view [Is Big Data a Big Deal? Not Without Correct
 Software!](http://cdn.rawgit.com/gkapfham/seke2015-panel-presentation/master/seke2015_panel.html).
 
 ## Installation Instructions
-
-You can type the following command if you want to clone this repository:
-
-```shell
-git clone https://github.com/gkapfham/seke2015-panel-presentation.git
-```
 
 Please note that the presentation uses local fonts so that it can be displayed at a conference on a laptop that either
 may not have access to the Internet or may only have unreliable Internet access. Some browsers may disallow the loading
@@ -40,6 +25,4 @@ approach, then you should type the following command:
 serve 4100
 ```
 
-Now, you can navigate to the Web site `http://localhost:4100/seke2015_panel.html` and view the presentation.  Ultimately,
-if you are unable to get the presentation to display correctly in your own web browser, then please open a new issue and
-I will attempt to resolve your concerns.
+Now, you can navigate to the Web site `http://localhost:4100/seke2015_panel.html` and view the presentation. Please raise any issue found in the presentation and/or code. 
